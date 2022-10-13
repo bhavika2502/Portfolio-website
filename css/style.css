@@ -1,0 +1,100 @@
+h1 {
+
+
+  margin: auto;
+
+text-align: center;
+color: #66BFBF;
+font-weight: bolder;
+font-size: 50px;
+
+}
+
+h2 {
+  font-weight: normal;
+  color: #66BFBF;
+  font-size: 30px;
+
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: monospace;
+
+
+}
+
+hr {
+  border-style: dotted none none none;
+  width: 20%;
+
+}
+
+.top-container {
+  background-color: #C2DED1;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 30px;
+
+}
+
+.profile {
+  margin-bottom: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+
+}
+
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+
+.my-img {
+  border-radius: 50%;
+}
+
+.football-img {
+  width: 15%;
+  height: 15%;
+  float: right;
+  margin-left: 30px;
+
+
+}
+
+.web-dev-img {
+
+  width: 30%;
+  height: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.contact-me {
+  margin-bottom: 30px;
+}
